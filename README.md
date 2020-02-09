@@ -14,23 +14,26 @@ Thirdly we want to introduce Actions, these will be used for creating workflows 
 ### Current Initial Setup
 
 ```
--------- Step 1 --------
+### -------- Step 1 --------
 Create a new GitHub Application with Probot.
 Follow the instructions here:
 
 https://probot.github.io/docs/development/#configuring-a-github-app ; 
 
--------- Step 2 --------
+###  -------- Step 2 --------
 Install the Probot Settings App in your GitHub Repository
 https://github.com/probot/settings
 
+### -------- Step 3 --------
+Deploy an Action to run the Probot Settings App
+https://github.com/marketplace/actions/github-action-to-run-probot-settings
 
--------- Step 3 --------
+### -------- Step 4 --------
 Install the Application that creates an Issue on New Repo creation
 
 https://github.com/migarjo/probot-create-issue-on-repo-creation
 
---- Developer Tools ---
+### --- Developer Tools ---
 $ npm install -g truffle
 ```
 
