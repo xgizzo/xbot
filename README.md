@@ -1,5 +1,5 @@
 # xbot
-![xbot](https://github.com/xgizzo/xbot/blob/master/assets/xbot.png)
+![xbot](https://github.com/xgizzo/xbot/blob/master/assets/xbot2.png)
 
 The Xbot Project is a work in progress to Automated and Secure CI/CD pipelines. This project is build on GitHub and uses the Probot framework to get up and running quickly.
 
