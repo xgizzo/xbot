@@ -48,4 +48,11 @@ The Master Branch is where all code and artifacts get deployed, so protecting th
 
 
 
+### Project Repositories
+
+[Xbot Main Repo](https://github.com/xgizzo/xbot)
+
+[Xbot Repo Settings](https://github.com/xgizzo/org-settings)
+
+[Issue Generator](https://github.com/xgizzo/mirrored)
 
