@@ -44,6 +44,8 @@ The Master Branch is where all code and artifacts get deployed, so protecting th
 
 **Step 5 : Deploy your Application on Glitch & Heroku**
 
+`Deploy you application to Glitch or Heroku then you don't have to worry about tunneling to your laptop Ngrok or Smee`
+
 [Deploy Probot GitHub App](https://probot.github.io/docs/deployment/)
 
 
