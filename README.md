@@ -7,7 +7,7 @@ This project is build on GitHub and uses the Probot framework to get up and runn
 **Automate the Protection of all Master Branches** when a repository is created. 
 The Master Branch is where all code and artifacts get deployed, so protecting this is a good start for an automated pipeline.
 
-**Automate the creation of new issue in the newly created repository**, this informs any users of all restrictions applied as well as any prior information a user might need to get started.
+**Automate the creation of new a issue in the newly created repository**, this informs any users of all restrictions applied as well as any prior information a user might need to get started.
 
 **Introduce Actions**, these will be used for creating workflows for our CI/CD Pipeline. 
 
@@ -44,7 +44,7 @@ The Master Branch is where all code and artifacts get deployed, so protecting th
 
 **Step 5 : Deploy your Application on Glitch & Heroku**
 
-`Deploy you application to Glitch or Heroku then you don't have to worry about tunneling to your laptop Ngrok or Smee`
+`Deploying your applications to Glitch or Heroku then you don't have to worry about tunneling to your laptop with Ngrok or Smee`
 
 [Deploy Probot GitHub App](https://probot.github.io/docs/deployment/)
 
