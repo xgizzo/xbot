@@ -56,3 +56,9 @@ The Master Branch is where all code and artifacts get deployed, so protecting th
 
 [Issue Generator](https://github.com/xgizzo/mirrored)
 
+
+### Project Gist
+
+[Acme Computers](https://gist.github.com/gizzoXYZ/222795870fea7a53237e75d1491bd8b4)
+
+[Dunder Mifflin Technologies](https://gist.github.com/gizzoXYZ/9e2ea9c68e0e3e9280d013d45b0ddc15)
